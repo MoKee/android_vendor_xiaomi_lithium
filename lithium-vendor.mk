@@ -1,4 +1,4 @@
-# Copyright (C) 2017-2018 The LineageOS Project
+# Copyright (C) 2017-2019 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -42,7 +42,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lithium/proprietary/vendor/firmware/a530_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_zap.b02 \
     vendor/xiaomi/lithium/proprietary/vendor/firmware/a530_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_zap.elf \
     vendor/xiaomi/lithium/proprietary/vendor/firmware/a530_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_zap.mdt \
-    vendor/xiaomi/lithium/proprietary/vendor/firmware/libpn551_fw.so:$(TARGET_COPY_OUT_VENDOR)/firmware/libpn551_fw.so \
+    vendor/xiaomi/lithium/proprietary/vendor/lib/libpn551_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn551_fw.so \
     vendor/xiaomi/lithium/proprietary/vendor/lib/libactuator_dw9763_a8_o-film.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9763_a8_o-film.so \
     vendor/xiaomi/lithium/proprietary/vendor/lib/libactuator_dw9763_a8_qtech.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9763_a8_qtech.so \
     vendor/xiaomi/lithium/proprietary/vendor/lib/libchromatix_ov16880_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov16880_common.so \
